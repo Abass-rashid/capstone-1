@@ -4,12 +4,13 @@
 
 Welcome to Pronto restaurant
 
-![screenshot](./assets/readme-img.PNG)
+![screenshot](./assets/readme.png)
 
 pronto restaurant. A place where you can eat food from many different cultures with your family or friends. just come and enjoy
-Here is a link on how i describe the project 
+Here is a link on how i describe the project
 
 [Project description video](https://www.loom.com/share/5f3cdb83b7064a709efc47c3f4ab87ce)
+
 ## Built With
 
 - Html, CSS and bootstrap
@@ -26,8 +27,7 @@ Here is a link on how i describe the project
 - inside of the cloned repository, run the index.html on a browser
 
 - Or you can just directly access it by clicking here
- [My Live Demo Link](https://abass-rashid.github.io/capstone-1/)
-
+  [My Live Demo Link](https://abass-rashid.github.io/capstone-1/)
 
 ## 🤝 Contributing
 
@@ -43,9 +43,6 @@ Feel free to check the [issues page](https://github.com/Abass-rashid/capstone-1/
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-
-
 
 ## Authors
 
