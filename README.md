@@ -17,7 +17,7 @@ Here is a link on how i describe the project
 
 ## Live Demo
 
-[My Live Demo Link](https://m05e5.github.io/capstone_1)
+[My Live Demo Link](https://abass-rashid.github.io/capstone-1/)
 
 ### Prerequisites
 
@@ -25,14 +25,15 @@ Here is a link on how i describe the project
 
 - inside of the cloned repository, run the index.html on a browser
 
-- Or you can just directly access it by clicking here [My Live Demo Link](https://m05e5.github.io/capstone_1)
+- Or you can just directly access it by clicking here
+ [My Live Demo Link](https://abass-rashid.github.io/capstone-1/)
 
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/m05e5/capstone_1/issues/2).
+Feel free to check the [issues page](https://github.com/Abass-rashid/capstone-1/issues).
 
 ## Acknowledgments
 
