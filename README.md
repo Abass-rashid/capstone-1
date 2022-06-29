@@ -1,72 +1,58 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# capstone-1
 
-> Description the project.
+Welcome to Pronto restaurant
 
+![screenshot](./assets/readme-img.PNG)
 
+pronto restaurant. A place where you can eat food from many different cultures with your family or friends. just come and enjoy
+Here is a link on how i describe the project 
+
+[Project description video](https://www.loom.comshare5ea1f0e26d3c4b54a93017b4a4756322)
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Html, CSS and bootstrap
+- VS studio as IDE
 
-## Live Demo (if available)
+## Live Demo
 
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
+[My Live Demo Link](https://m05e5.github.io/capstone_1)
 
 ### Prerequisites
 
-### Setup
+- Clone git repository from the main branch
 
-### Install
+- inside of the cloned repository, run the index.html on a browser
 
-### Usage
+- Or you can just directly access it by clicking here [My Live Demo Link](https://m05e5.github.io/capstone_1)
 
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/m05e5/capstone_1/issues/2).
+
+## Acknowledgments
+
+- [Cindy Shin](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015) from who I got my inspiration
+- Morning session team who helped me figure out some things
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+
+
+## Authors
+
+👤 **Abass rashid**
+
+- GitHub: [@Abass-rashid](https://github.com/Abass-rashid)
+- Twitter: [@Abass10](https://twitter.com/Abass10)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/Abass-rashid)
 
 ## 📝 License
 
